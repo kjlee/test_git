@@ -2,7 +2,11 @@
 	<li>erlang</li>
 	<li>python</li>
 	<li>objective</li>
+<<<<<<< HEAD
 	<li>Ruby</li>
+=======
+	<li>ECMAScript</li>
+>>>>>>> RB_1.0
 </ul>
 
 	
